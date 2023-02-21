@@ -1,5 +1,6 @@
 # TI84CE-ICE-Mountain-Background-Generator
-The Mountain Background Generator lets you add scrolling mountains into your ICE games on the TI84 CE. For best results only move the background one direction.
+The Mountain Background Generator lets you add scrolling mountains into your ICE games on the TI84 CE. 
+For best results only move the background one direction.
 
 Check out the demo program to see how it works!
 The following pics show off the capibiltys of this program!
@@ -9,3 +10,7 @@ The following pics show off the capibiltys of this program!
 
 This is with debug mode on: (The colors represent the differnt types of chucks)
 ![pic_1_debug_on](https://user-images.githubusercontent.com/73206799/220415373-a1747707-5bd3-474f-b3e2-990afe152533.png)
+
+
+If you want to compile the program yourself compile "ICEBDEMO". The ICE compiler can be found here:
+https://www.cemetech.net/downloads/files/1481/x1481
