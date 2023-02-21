@@ -14,3 +14,5 @@ This is with debug mode on: (The colors represent the differnt types of chucks)
 
 If you want to compile the program yourself compile "ICEBDEMO". The ICE compiler can be found here:
 https://www.cemetech.net/downloads/files/1481/x1481
+
+Or if you just want to test it and mess around with it run "ICEBACKC"
